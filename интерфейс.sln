@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "интерфейс", "интерфейс\интерфейс.csproj", "{3ECB6DE9-AB3D-45D2-A685-A5A6472FF53F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфесй домашнее задание", "Интерфесй домашнее задание\Интерфесй домашнее задание.csproj", "{E9AE4ADF-A86F-4696-BFC4-0EB16A061579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECB6DE9-AB3D-45D2-A685-A5A6472FF53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECB6DE9-AB3D-45D2-A685-A5A6472FF53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECB6DE9-AB3D-45D2-A685-A5A6472FF53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECB6DE9-AB3D-45D2-A685-A5A6472FF53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AE4ADF-A86F-4696-BFC4-0EB16A061579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AE4ADF-A86F-4696-BFC4-0EB16A061579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AE4ADF-A86F-4696-BFC4-0EB16A061579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AE4ADF-A86F-4696-BFC4-0EB16A061579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECABCAD-7174-499C-B6C4-A7B60C677E64}
+	EndGlobalSection
+EndGlobal
